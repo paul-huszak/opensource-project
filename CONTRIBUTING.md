@@ -85,7 +85,7 @@ members of the project's leadership.
 
 ### Attribution
 
-This Code of Conduct is adapted from the Django Code of Conduct, ![Code of Conduct]()
+This Code of Conduct is adapted from the Django Code of Conduct, [CODE_OF_CONDUCT.md](https://github.com/paul-huszak/opensource-project/blob/main/CODE_OF_CONDUCT.md)
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
